@@ -23,3 +23,7 @@ http://*.wdr.de/*
 https://*.wdr.de/*
 wrd.de###box
 www1.wdr.de###bgImageCont
+http://*.wdr2.de
+https://*.wdr2.de
+http://*.wdr2.de/*
+https://*.wdr2.de/*

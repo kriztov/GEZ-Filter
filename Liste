@@ -27,3 +27,5 @@ http://*.wdr2.de
 https://*.wdr2.de
 http://*.wdr2.de/*
 https://*.wdr2.de/*
+wdr2.de###skipLinks
+wdr2.de###bgImageCont

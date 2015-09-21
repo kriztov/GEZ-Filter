@@ -17,4 +17,9 @@ heute.de##.wrapper.beitrag
 heute.de##.merklisteSenden
 heute.de##.merklisteHinweis
 heute.de##.merklisteListe
+http://*.wdr.de
+https://*.wdr.de
+http://*.wdr.de/*
+https://*.wdr.de/*
 wrd.de###box
+www1.wdr.de###bgImageCont
